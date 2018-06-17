@@ -167,3 +167,8 @@ a .icon-fab {
 /* .navbar-brand * {
   font-size: 30px;
 } */
+
+.borderless {
+  border-width: 0 !important;
+  border-radius: 0 !important;
+}
